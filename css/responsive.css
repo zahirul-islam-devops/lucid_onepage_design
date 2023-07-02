@@ -1,0 +1,332 @@
+
+
+@media (max-width: 960px) {
+
+	.banner {
+    	padding: 120px 0px;
+	}
+
+	.feature {
+    	padding: 60px 0px;
+	}
+
+	.about-short {
+    	padding: 60px 0px;
+	}
+
+	.about-short .title {
+    	padding: 40px 0px 20px;
+	}
+
+	.about-short p {
+    	width: 75%;
+	}
+
+	.eye-catcher h3 {
+    	font-size: 30px;
+    	text-align: center;
+	}
+
+	.eye-catcher .twin-btn {
+    	text-align: center;
+    	margin: 25px 0px 0px;
+	}
+
+	.price {
+    	padding: 70px 0px;
+	}
+
+	.price .title {
+    	padding: 0px 0px 40px;
+	}
+
+	.price .price-box {
+    	margin: 20px 0px;
+	}
+
+	.contact .info {
+    	padding: 15px 30px;
+	}
+
+	.contact .contact-form {
+    	margin: 40px 0px -145px;
+	}
+
+}
+
+
+@media (max-width: 720px) {
+
+	.banner {
+    	padding: 100px 0px;
+	}
+
+	.banner h4 {
+		margin: 0px 0px 15px;
+	}
+
+	.banner h1 {
+    	font-size: 42px;
+    	margin: 0px 0px 20px;
+	}
+
+	.banner p {
+    	font-size: 12px;
+	}
+
+	.feature .title {
+    	padding: 0px 0px 30px;
+	}
+
+	.feature .icon-box {
+    	padding: 30px;
+	}
+
+	.about-long {
+    	padding: 60px 0px;
+	}
+
+	.about-long .title {
+    	padding: 30px 0px 20px;
+	}
+
+	.about-short .title {
+    	padding: 20px 0px 30px;
+	}
+
+	.testimonials .owl-carousel .item h4 {
+    	font-size: 21px;
+	}
+
+	.testimonials .owl-carousel .item p {
+    	margin: 15px 0px 0px 20px;
+	}
+
+	.testimonials .owl-theme .owl-nav.disabled+.owl-dots {
+    	margin-top: 70px;
+	}
+
+	.eye-catcher {
+    	padding: 40px 0px;;
+	}
+
+	.eye-catcher h3 {
+    	font-size: 23px;
+	}
+
+	.price {
+    	padding: 60px 0px;
+	}
+
+	.price .title {
+    	padding: 0px 0px 30px;
+	}
+
+	.price-box .price-tag {
+    	padding: 20px;
+	}
+
+	.price-box .price-foot {
+    	padding: 30px 40px;
+	}
+
+	.contact {
+    	padding: 70px 0px;
+	}
+
+	.contact .title {
+    	padding: 0px 0px 30px;
+	}
+
+	.contact .align-right {
+    	text-align: center;
+	}
+
+}
+
+
+@media (max-width: 540px) {
+
+	.header .navbar-nav .nav-item .nav-link {
+    	font-size: 14px;
+    	margin: 8px 0px 10px 5px;
+	}
+
+	.banner {
+    	padding: 60px 20px;
+	}
+
+	.banner h4 {
+    	margin: 0px 0px 10px;
+	}
+
+	.banner h1 {
+		font-size: 36px;
+    	margin: 0px 0px 15px;
+	}
+
+	.banner .twin-btn {
+    	padding: 20px 0px 0px;
+	}
+
+	.feature {
+    	padding: 50px 0px;
+	}
+
+	.feature .title h4 {
+    	font-size: 14px;
+	}
+
+	.feature .title h2 {
+    	font-size: 30px;
+    	margin: 10px 0px 15px;
+	}
+
+	.feature .title {
+    	padding: 0px 0px 20px;
+	}
+
+	.icon-box p {
+    	font-size: 15px;
+	}
+
+	.about-long {
+    	padding: 50px 40px;
+	}
+
+	.about-long .title {
+    	padding: 20px 0px 20px;
+	}
+
+	.about-long .title h2 {
+    	font-size: 30px;
+	}
+
+	.about-long p {
+    	width: 96%;
+    	margin: 0px 0px 15px;
+	}
+
+	.about-short {
+    	padding: 40px;
+	}
+
+	.about-short .title h4 {
+    	font-size: 14px;
+	}
+
+	.about-short .title h2 {
+    	font-size: 28px;
+    	margin: 10px 0px 10px;
+	}
+
+	.about-short p {
+    	width: 95%;
+	}
+
+	.testimonials {
+    	width: 100%;
+    	padding: 50px 25px;
+	}
+
+	.testimonials .title {
+    	padding: 0px 0px 30px;
+	}
+
+	.testimonials .title h4 {	
+    	font-size: 14px;
+	}
+
+	.testimonials .title h2 {
+    	font-size: 36px;
+    	margin: 10px 0px 12px;
+	}
+
+	.testimonials .owl-carousel .item h4 {
+    	font-size: 16px;
+    	margin: 0px 0px 20px;
+	}
+
+	.testimonials .owl-carousel .item .client {
+    	width: 70px;
+    	height: 70px;
+	}
+
+	.testimonials .owl-carousel .item p {
+    	margin: 10px 0px 0px 15px;
+	}
+
+	.testimonials .owl-theme .owl-nav.disabled+.owl-dots {
+    	margin-top: 60px;
+	}
+
+	.eye-catcher {
+    	padding: 35px 15px;
+	}
+
+	.eye-catcher h3 {
+    	font-size: 18px;
+	}
+
+	.eye-catcher .twin-btn {
+    	margin: 15px 0px 0px;
+	}
+
+	.twin-btn .btn-light {
+    	font-size: 10px;
+    	padding: 10px 18px;
+	}
+
+	.twin-btn .btn-primary {
+    	font-size: 10px;
+    	padding: 10px 18px;
+	}
+
+	.price {
+    	padding: 50px 25px;
+	}
+
+	.price .title {
+    	padding: 0px 0px 20px;
+	}
+
+	.price-box .price-head {
+    	padding: 15px;
+	}
+
+	.price-box .price-foot {
+    	padding: 20px 80px;
+	}
+
+	.contact {
+    	padding: 50px 20px;
+	}
+
+	.contact .title {
+    	padding: 0px 0px 20px;
+	}
+
+	.contact .contact-form {
+    	margin: 20px 0px -55px;
+	}
+
+	.contact .contact-form {
+    	padding: 40px 40px 30px;
+	}
+
+	.footer {
+    	padding: 30px 0px;
+	}
+
+	.social-media ul li a {
+   		width: 35px;
+    	height: 35px;
+    	line-height: 40px;
+	}
+
+	.inner-footer p {
+    	font-size: 12px;
+    	margin: 15px 0px 0px;
+	}
+
+}
